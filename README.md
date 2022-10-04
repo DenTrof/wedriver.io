@@ -12,8 +12,7 @@ $ yarn install
 Для обращения к сайту
 
 ```yaml
-APP_URL=http://localhost:3000/ - для локальной разработки
-APP_URL=https://art.test.self.team/ - дев контур
+APP_URL=https://targeted-dev.rinalogy.com/
 ```
 
 ## Yarn скрипты
